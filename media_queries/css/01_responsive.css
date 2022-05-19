@@ -1,0 +1,6 @@
+/* media queries permettant de ré-arranger la disposition du site en fonction des tailles de navigateur en px - cf.viewportsize.com - 3 tailles suffisent on peut faire une feuille de style standard et une css rien que pour le responsive de base la zone rouge, si l'écran est de plus de 768px et jusqu'à 992os la zone est orange*/
+.zone-adaptative{
+    background: red;
+    color: white;
+    padding: 10px;
+}
